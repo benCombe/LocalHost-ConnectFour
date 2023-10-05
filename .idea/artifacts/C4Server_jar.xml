@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="C4Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/C4Server_jar</output-path>
+    <root id="archive" name="A2.jar">
+      <element id="module-output" name="A2" />
+    </root>
+  </artifact>
+</component>
